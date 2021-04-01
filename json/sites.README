@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("5d33f75f20d298682c0deea3"),
+    "name" : "Site",
+    "featured" : [],
+    "siteInfo" : [ 
+        {
+            "address" : "Kramer 4567",
+            "hours" : "Mon-Sun/ 9am-8pm",
+            "phone" : "1234-34567",
+            "email" : "nfo@waves.com"
+        }
+    ],
+    "__v" : 0
+}
